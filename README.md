@@ -1,5 +1,7 @@
 ## 아 공부하기싫어
 <img width="683" height="238" alt="스크린샷 2025-12-12 190646" src="https://github.com/user-attachments/assets/d2fd9da0-dbae-4edf-8d62-62ae74ab9562" />
+
+
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 <!--
