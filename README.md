@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 <!--
 **djdmadhdndi/djdmadhdndi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
